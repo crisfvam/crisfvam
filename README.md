@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Cristian Valencia</h1>
 <h3 align="center">Data Scientist | Data Analyst</h3>
 
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fswisscognitive.ch%2Ftop_keyword%2Fsurvey-study-report%2Fpage%2F4%2F&psig=AOvVaw2jcbEAie06YR4soo8oP9lp&ust=1683443905012000&source=images&cd=vfe&ved=0CBIQjhxqFwoTCNiYobGT4P4CFQAAAAAdAAAAABAw
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crfvalenciam&label=Profile%20views&color=0e75b6&style=flat" alt="crfvalenciam" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crfvalenciam" alt="crfvalenciam" /></a> </p>
