@@ -4,9 +4,8 @@
 </div>
 
 
-<div style="text-align:right;">
-  <img src="https://github.com/crfvalenciam/crfvalenciam/blob/main/Left-Right-Brain-Signals.gif" alt="Welcome, I am Cristian Valencia">
-</div>
+<img src="https://github.com/crfvalenciam/crfvalenciam/blob/main/Left-Right-Brain-Signals.gif" alt="Welcome, I am Cristian Valencia" width="1400">
+
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=crfvalenciam&label=Profile%20views&color=0e75b6&style=flat" alt="crfvalenciam" /> </p>
