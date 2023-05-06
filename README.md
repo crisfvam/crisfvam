@@ -1,6 +1,5 @@
 <div align="center">
-    <h1 style="color: #007ACC;"> Cristian Valencia</h1>
-    <h2 style="color: #1F2D3D;">Data Scientist | Data Analyst</h2>
+    <h1 style="color: #1F2D3D;">Data Scientist | Data Analyst</h1>
 </div>
 
 
