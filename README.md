@@ -2,8 +2,28 @@
     <h1 style="color: #1F2D3D;">Data Scientist | Data Analyst</h1>
 </div>
 
-
 <img src="https://github.com/crfvalenciam/crfvalenciam/blob/main/Left-Right-Brain-Signals.gif" alt="Welcome, I am Cristian Valencia" width="1400">
+
+# Portfolio
+
+¡Bienvenido a mi portfolio! Aquí encontrarás algunos de mis trabajos y proyectos destacados. Las herramientas que he utilizado de visualización son Streamlit, Microsoft Power Bi, Tableau y excel. Te invito a explorarlos y descubrir más sobre mis habilidades y experiencia en el campo.
+
+## Preprocessing Data in Streamlit App
+[Data Cleansing Streamlit App](https://crfvalenciam-etl-etl-mvbeyb.streamlit.app/)
+![image](https://github.com/crfvalenciam/Portfolio/assets/70907382/8c4fa08b-cb25-4aea-a7c4-5ba4b2dd0e99)
+[Ver enlace](https://www.linkedin.com/feed/update/urn:li:activity:7066082505325436928/)
+
+## Sales Report in Excel
+![7](https://user-images.githubusercontent.com/70907382/231448817-4d220467-0c76-4af8-bc14-0326c20bf675.PNG)
+[Ver enlace](https://unaledu-my.sharepoint.com/:x:/g/personal/crfvalenciama_unal_edu_co/EX36cl9LigtOmrbWN2DUk1gBdGc5D4lAM12_yy2PXT_asw?rtime=CM0vG0w720g)
+
+## Hotel Analysis in Tableau
+![image](https://user-images.githubusercontent.com/70907382/231449398-86669e8b-4a72-4670-a0d7-0c5e7f7a3478.png)
+[Ver enlace](https://public.tableau.com/app/profile/crisfvam/viz/Hoteles_16725141654290/Dashboard1)
+
+## KPIs in Tableau
+![image](https://user-images.githubusercontent.com/70907382/231449633-30638dba-6633-489f-954a-c8a7244de991.png)
+[Ver enlace](https://public.tableau.com/app/profile/crisfvam/viz/FirstData_16648246573180/Dashboard1)
 
 
 
