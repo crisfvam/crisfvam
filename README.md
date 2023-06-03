@@ -12,7 +12,7 @@ Welcome to my portfolio! Here you will find some of my works and projects. The v
 
 <div align="center">
     <h3 style="color: #1F2D3D; font-family: 'Montserrat', sans-serif;">
-        Data Cleansing App
+        Data Cleansing App (Streamlit-Python-POO)
     </h3>
 </div>
 
@@ -20,7 +20,12 @@ Welcome to my portfolio! Here you will find some of my works and projects. The v
 ![image](https://github.com/crfvalenciam/crfvalenciam/assets/70907382/1209d7e8-8602-4914-9ee8-92f3059f80be)
 [First post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7066082505325436928/)
 
-## Sales Report in Excel
+<div align="center">
+    <h3 style="color: #1F2D3D; font-family: 'Montserrat', sans-serif;">
+        Sales Report (Excel)
+    </h3>
+</div>
+
 ![7](https://user-images.githubusercontent.com/70907382/231448817-4d220467-0c76-4af8-bc14-0326c20bf675.PNG)
 [Ver enlace](https://unaledu-my.sharepoint.com/:x:/g/personal/crfvalenciama_unal_edu_co/EX36cl9LigtOmrbWN2DUk1gBdGc5D4lAM12_yy2PXT_asw?rtime=CM0vG0w720g)
 
