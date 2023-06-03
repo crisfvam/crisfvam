@@ -26,16 +26,29 @@ Welcome to my portfolio! Here you will find some of my works and projects. The v
     </h3>
 </div>
 
+[Link](https://unaledu-my.sharepoint.com/:x:/g/personal/crfvalenciama_unal_edu_co/EX36cl9LigtOmrbWN2DUk1gBdGc5D4lAM12_yy2PXT_asw?rtime=CM0vG0w720g)
 ![7](https://user-images.githubusercontent.com/70907382/231448817-4d220467-0c76-4af8-bc14-0326c20bf675.PNG)
-[Ver enlace](https://unaledu-my.sharepoint.com/:x:/g/personal/crfvalenciama_unal_edu_co/EX36cl9LigtOmrbWN2DUk1gBdGc5D4lAM12_yy2PXT_asw?rtime=CM0vG0w720g)
 
-## Hotel Analysis in Tableau
+
+<div align="center">
+    <h3 style="color: #1F2D3D; font-family: 'Montserrat', sans-serif;">
+        Dashboard - Hotel (Tableau)
+    </h3>
+</div>
+
+[Link](https://public.tableau.com/app/profile/crisfvam/viz/Hoteles_16725141654290/Dashboard1)
 ![image](https://user-images.githubusercontent.com/70907382/231449398-86669e8b-4a72-4670-a0d7-0c5e7f7a3478.png)
-[Ver enlace](https://public.tableau.com/app/profile/crisfvam/viz/Hoteles_16725141654290/Dashboard1)
 
-## KPIs in Tableau
+
+<div align="center">
+    <h3 style="color: #1F2D3D; font-family: 'Montserrat', sans-serif;">
+        KPI Dashboard (Tableau)
+    </h3>
+</div>
+
+[Link](https://public.tableau.com/app/profile/crisfvam/viz/FirstData_16648246573180/Dashboard1)
 ![image](https://user-images.githubusercontent.com/70907382/231449633-30638dba-6633-489f-954a-c8a7244de991.png)
-[Ver enlace](https://public.tableau.com/app/profile/crisfvam/viz/FirstData_16648246573180/Dashboard1)
+
 
 
 
