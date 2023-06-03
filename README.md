@@ -12,6 +12,19 @@ Welcome to my portfolio! Here you will find some of my works and projects. The v
 
 <div align="center">
     <h3 style="color: #1F2D3D; font-family: 'Montserrat', sans-serif;">
+        Business Intelligence-EDA (Streamlit-Python-POO)
+    </h3>
+</div>
+
+[Link App](https://crfvalenciam-eda-eda-p0nq3w.streamlit.app/)
+![image](https://github.com/crfvalenciam/crfvalenciam/assets/70907382/6c85cb7f-5bf3-4bd4-b3a1-125844baffb9)
+![image](https://github.com/crfvalenciam/crfvalenciam/assets/70907382/326f904f-be2c-4d84-8aab-4a2aa7533eef)
+![image](https://github.com/crfvalenciam/crfvalenciam/assets/70907382/c3531143-c80a-484c-9dac-4bf7ff88f58d)
+[First post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7070012861414006784/)
+
+
+<div align="center">
+    <h3 style="color: #1F2D3D; font-family: 'Montserrat', sans-serif;">
         Data Cleansing App (Streamlit-Python-POO)
     </h3>
 </div>
