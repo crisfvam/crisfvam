@@ -10,7 +10,7 @@
 
 ## Preprocessing Data in Streamlit App
 [Data Cleansing Streamlit App](https://crfvalenciam-etl-etl-mvbeyb.streamlit.app/)
-![image](https://github.com/crfvalenciam/Portfolio/assets/70907382/8c4fa08b-cb25-4aea-a7c4-5ba4b2dd0e99)
+![image](https://github.com/crfvalenciam/crfvalenciam/assets/70907382/0841a3bb-719d-4464-86cf-5d1190743b47)
 [Ver enlace](https://www.linkedin.com/feed/update/urn:li:activity:7066082505325436928/)
 
 ## Sales Report in Excel
