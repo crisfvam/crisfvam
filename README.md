@@ -18,8 +18,10 @@ Welcome to my portfolio! Here you will find some of my works and projects. The v
 
 [Link App](https://crfvalenciam-eda-eda-p0nq3w.streamlit.app/)
 ![image](https://github.com/crfvalenciam/crfvalenciam/assets/70907382/6c85cb7f-5bf3-4bd4-b3a1-125844baffb9)
-![image](https://github.com/crfvalenciam/crfvalenciam/assets/70907382/326f904f-be2c-4d84-8aab-4a2aa7533eef)
-![image](https://github.com/crfvalenciam/crfvalenciam/assets/70907382/c3531143-c80a-484c-9dac-4bf7ff88f58d)
+![image](https://github.com/crfvalenciam/crfvalenciam/assets/70907382/9e8d7266-67b3-49ea-932f-3385627081cc)
+![image](https://github.com/crfvalenciam/crfvalenciam/assets/70907382/f5c8eb4f-f9af-477f-8acf-f71140a09c19)
+![image](https://github.com/crfvalenciam/crfvalenciam/assets/70907382/dd930652-6889-4dad-a5f9-a9b6f12541f2)
+
 [First post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7070012861414006784/)
 
 
