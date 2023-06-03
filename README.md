@@ -1,17 +1,23 @@
 <div align="center">
-    <h1 style="color: #1F2D3D;">Data Scientist | Data Analyst</h1>
+  <img src="https://github.com/crfvalenciam/crfvalenciam/blob/main/Left-Right-Brain-Signals.gif" alt="Welcome, I am Cristian Valencia" width="200">
 </div>
 
-<img src="https://github.com/crfvalenciam/crfvalenciam/blob/main/Left-Right-Brain-Signals.gif" alt="Welcome, I am Cristian Valencia" width="1400">
 
-# Portfolio
+<div align="center">
+    <h1 style="color: #1F2D3D; font-family: 'Montserrat', sans-serif;">Portfolio</h1>
+</div>
 
-¡Bienvenido a mi portfolio! Aquí encontrarás algunos de mis trabajos y proyectos destacados. Las herramientas que he utilizado de visualización son Streamlit, Microsoft Power Bi, Tableau y excel. Te invito a explorarlos y descubrir más sobre mis habilidades y experiencia en el campo.
 
-## Preprocessing Data in Streamlit App
-[Data Cleansing Streamlit App](https://crfvalenciam-etl-etl-mvbeyb.streamlit.app/)
-![image](https://github.com/crfvalenciam/crfvalenciam/assets/70907382/0841a3bb-719d-4464-86cf-5d1190743b47)
-[Ver enlace](https://www.linkedin.com/feed/update/urn:li:activity:7066082505325436928/)
+Welcome to my portfolio! Here you will find some of my works and projects. The visualization tools that I use most are Streamlit, Microsoft Power Bi, Tableau and Excel. I invite you to explore them and discover more about my skills and experience in the field.
+
+<div align="center">
+    <h3 style="color: #1F2D3D; font-family: 'Montserrat', sans-serif;">
+        Data Cleansing App
+    </h3>
+</div>
+[Link App](https://crfvalenciam-etl-etl-mvbeyb.streamlit.app/)
+![image](https://github.com/crfvalenciam/crfvalenciam/assets/70907382/1209d7e8-8602-4914-9ee8-92f3059f80be)
+[First post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7066082505325436928/)
 
 ## Sales Report in Excel
 ![7](https://user-images.githubusercontent.com/70907382/231448817-4d220467-0c76-4af8-bc14-0326c20bf675.PNG)
