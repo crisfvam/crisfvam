@@ -32,10 +32,10 @@ Welcome to my portfolio! Here you will find some of my works and projects. The v
     </h3>
 </div>
 
-[Link App](https://app.powerbi.com/groups/me/reports/75b412fb-e5de-44ed-95b2-c8828dcda4f9/ReportSection?experience=power-bi)
+[Link](https://app.powerbi.com/groups/me/reports/75b412fb-e5de-44ed-95b2-c8828dcda4f9/ReportSection?experience=power-bi)
 
 
-![image](https://github.com/crfvalenciam/crfvalenciam/assets/70907382/a1dd07ae-bc23-43a1-b7d8-8dec97f83bc4)
+![image](https://github.com/crfvalenciam/crfvalenciam/assets/70907382/1a2bf690-a299-41d6-a196-5cc027a4fa3c)
 
 
 
