@@ -12,17 +12,31 @@ Welcome to my portfolio! Here you will find some of my works and projects. The v
 
 <div align="center">
     <h3 style="color: #1F2D3D; font-family: 'Montserrat', sans-serif;">
-        Business Intelligence-EDA (Streamlit-Python-POO)
+        Business Intelligence-EDA (Streamlit-Python-POO) 
     </h3>
 </div>
 
-[Link App](https://crfvalenciam-eda-eda-p0nq3w.streamlit.app/)
+[Link App |   ](https://crfvalenciam-eda-eda-p0nq3w.streamlit.app/) 
+[First post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7070012861414006784/)
 ![image](https://github.com/crfvalenciam/crfvalenciam/assets/70907382/6c85cb7f-5bf3-4bd4-b3a1-125844baffb9)
 ![image](https://github.com/crfvalenciam/crfvalenciam/assets/70907382/9e8d7266-67b3-49ea-932f-3385627081cc)
 ![image](https://github.com/crfvalenciam/crfvalenciam/assets/70907382/f5c8eb4f-f9af-477f-8acf-f71140a09c19)
 ![image](https://github.com/crfvalenciam/crfvalenciam/assets/70907382/f99a6fa1-1dbc-4375-b867-6f0ea89b83eb)
 
-[First post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7070012861414006784/)
+
+
+
+<div align="center">
+    <h3 style="color: #1F2D3D; font-family: 'Montserrat', sans-serif;">
+        Dashboard Business Intelligence (Power-BI)
+    </h3>
+</div>
+
+[Link App](https://app.powerbi.com/groups/me/reports/75b412fb-e5de-44ed-95b2-c8828dcda4f9/ReportSection?experience=power-bi)
+
+
+![image](https://github.com/crfvalenciam/crfvalenciam/assets/70907382/a1dd07ae-bc23-43a1-b7d8-8dec97f83bc4)
+
 
 
 <div align="center">
@@ -31,13 +45,15 @@ Welcome to my portfolio! Here you will find some of my works and projects. The v
     </h3>
 </div>
 
-[Link App](https://crfvalenciam-etl-etl-mvbeyb.streamlit.app/)
-![image](https://github.com/crfvalenciam/crfvalenciam/assets/70907382/6ae751e0-44a2-4f85-bda2-0f9918603c81)
+[Link App    |      ](https://crfvalenciam-etl-etl-mvbeyb.streamlit.app/)
+[First post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7066082505325436928/)
 ![image](https://github.com/crfvalenciam/crfvalenciam/assets/70907382/1209d7e8-8602-4914-9ee8-92f3059f80be)
+
 ![image](https://github.com/crfvalenciam/crfvalenciam/assets/70907382/30d9dfc0-4664-4fa0-b253-55a6ce9468bb)
+
 ![image](https://github.com/crfvalenciam/crfvalenciam/assets/70907382/37c161b6-509b-4134-ad86-94759598d0aa)
 
-[First post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7066082505325436928/)
+
 
 <div align="center">
     <h3 style="color: #1F2D3D; font-family: 'Montserrat', sans-serif;">
