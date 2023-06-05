@@ -10,6 +10,15 @@
 
 Welcome to my portfolio! Here you will find some of my works and projects. The visualization tools that I use most are Streamlit, Microsoft Power Bi, Tableau and Excel. I invite you to explore them and discover more about my skills and experience in the field.
 
+Skills:
+* ``SQL``               ``R``               ``Hadoop``         ``Scikit Learn``      ``Keras``               ``Streamlit``
+* ``PostgreSQL``        ``Python``          ``AWS``            ``Tensor-Flow``       ``Caret``                 ``Power Bi``
+* ``MongoDB``           ``Apache Spark``    ``Azure``          ``Pytorch``           ``Random- Forest``         ``e1071`` ``Tableau``   
+                                                                           
+
+
+
+
 <div align="center">
     <h3 style="color: #1F2D3D; font-family: 'Montserrat', sans-serif;">
         Business Intelligence-EDA (Streamlit-Python-POO) 
