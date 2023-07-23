@@ -54,7 +54,7 @@ Skills:
     </h3>
 </div>
 
-[Link App    |      ]([https://crfvalenciam-etl-etl-mvbeyb.streamlit.app/](https://crfvalenciam-data-cleansing-etl-r1kik7.streamlit.app/))
+[Link App    |      ](https://crfvalenciam-etl-etl-mvbeyb.streamlit.app/](https://crfvalenciam-data-cleansing-etl-r1kik7.streamlit.app/))
 [First post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7066082505325436928/)
 ![image](https://github.com/crfvalenciam/crfvalenciam/assets/70907382/1209d7e8-8602-4914-9ee8-92f3059f80be)
 ![image](https://github.com/crfvalenciam/crfvalenciam/assets/70907382/555706f4-4f4b-447a-85f2-4a2df29b3746)
