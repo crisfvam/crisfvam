@@ -13,7 +13,7 @@ Welcome to my portfolio! Here you will find some of my works and projects. The v
 Skills:
 *  ``Python``  ``Pandas`` ``Numpy`` ``SQL`` ``MySQL`` ``PostgreSQL`` ``MongoDB``      ``Streamlit``
 * ``Apache Hadoop`` ``Apache Spark``   ``Apache AIrflow``  ``ETL``  ``Power Bi`` ``EDA`` ``Bash Scripts`` 
-* ``Snowflakes``  ``Data Warehouses``   ``Azure``          ``Machine Learning Models``           ``ETL``         ``GCS`` ````   
+* ``Snowflakes``  ``Data Warehouses``   ``Azure``          ``Machine Learning Models``           ``ETL``         ``GCS``    
                                                                            
 
 
