@@ -8,12 +8,12 @@
 </div>
 
 
-Welcome to my portfolio! Here you will find some of my works and projects. The visualization tools that I use most are Streamlit, Microsoft Power Bi, Tableau and Excel. I invite you to explore them and discover more about my skills and experience in the field.
+Welcome to my portfolio! Here you will find some of my works and projects. I invite you to explore them and discover more about my skills and experience in the field.
 
 Skills:
 *  ``Python``  ``Pandas`` ``Numpy`` ``SQL`` ``MySQL`` ``PostgreSQL`` ``MongoDB``      ``Streamlit``
-* ``Apache Hadoop`` ``Apache Spark``   ``Apache AIrflow``  ``ETL``  ``Power Bi`` ``EDA`` ``Bash Scripts`` 
-* ``Snowflakes``  ``Data Warehouses``   ``Azure``          ``Machine Learning Models``           ``ETL``         ``GCS``    
+* ``Apache Hadoop`` ``Apache Spark``   ``Apache Airflow``  ``Kafka``  ``Power Bi`` ``Cognos`` ``Linux Bash Scripts`` 
+* ``Snowflakes``  ``Scikit-Learn``   ``Azure``    ``Tensorflow``   ``R``  ``Scala`` ``Machine Learning Models``           ``AWS``         ``GCS``    
                                                                            
 
 
