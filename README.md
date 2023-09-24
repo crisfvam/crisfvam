@@ -25,7 +25,7 @@ Skills:
     </h3>
 </div>
 
-[Link App |   ](https://qts95fwtappsxdwfsbuvuz.streamlit.app/) 
+[Link App |   ](https://exploratorydatanalysis.streamlit.app/) 
 [First post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7070012861414006784/)
 ![image](https://github.com/crfvalenciam/crfvalenciam/assets/70907382/6c85cb7f-5bf3-4bd4-b3a1-125844baffb9)
 ![image](https://github.com/crfvalenciam/crfvalenciam/assets/70907382/9e8d7266-67b3-49ea-932f-3385627081cc)
@@ -54,7 +54,7 @@ Skills:
     </h3>
 </div>
 
-[Link App    |      ](https://j5zx3y6pugzmdzpftz5tdp.streamlit.app/)
+[Link App    |      ](https://datacleansing.streamlit.app/)
 [First post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7066082505325436928/)
 ![image](https://github.com/crfvalenciam/crfvalenciam/assets/70907382/1209d7e8-8602-4914-9ee8-92f3059f80be)
 ![image](https://github.com/crfvalenciam/crfvalenciam/assets/70907382/555706f4-4f4b-447a-85f2-4a2df29b3746)
