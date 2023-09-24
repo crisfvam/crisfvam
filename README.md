@@ -16,10 +16,11 @@ Skills:
 * ``Snowflakes``  ``Scikit-Learn``   ``Azure``    ``Tensorflow``   ``R``  ``Scala`` ``Machine Learning Models``           ``AWS``         ``GCS``    
                                                                            
 
+
 <div align="center">
-    <h3 style="color: #1F2D3D; font-family: 'Montserrat', sans-serif;">
+    <h2 style="color: #00bcc8; font-family: 'Montserrat', sans-serif;">
         ETL (API-Streamlit)
-    </h3>
+    </h2>
 </div>
 
 [Link App    |      ](https://datacleansing.streamlit.app/)
@@ -34,10 +35,11 @@ Skills:
 
 
 
+
 <div align="center">
-    <h3 style="color: #1F2D3D; font-family: 'Montserrat', sans-serif;">
+    <h2 style="color: #00bcc8; font-family: 'Montserrat', sans-serif;">
         Business Intelligence-EDA (API-Streamlit) 
-    </h3>
+    </h2>
 </div>
 
 [Link App |   ](https://exploratorydatanalysis.streamlit.app/)
@@ -51,9 +53,9 @@ Skills:
 
 
 <div align="center">
-    <h3 style="color: #1F2D3D; font-family: 'Montserrat', sans-serif;">
+    <h2 style="color: #00bcc8; font-family: 'Montserrat', sans-serif;">
         Dashboard Business Intelligence (Power-BI)
-    </h3>
+    </h2>
 </div>
 
 [Link](https://app.powerbi.com/groups/me/reports/75b412fb-e5de-44ed-95b2-c8828dcda4f9/ReportSection?experience=power-bi)
@@ -68,9 +70,9 @@ Skills:
 
 
 <div align="center">
-    <h3 style="color: #1F2D3D; font-family: 'Montserrat', sans-serif;">
+    <h2 style="color: #00bcc8; font-family: 'Montserrat', sans-serif;">
         Sales Report (Excel)
-    </h3>
+    </h2>
 </div>
 
 [Link](https://unaledu-my.sharepoint.com/:x:/g/personal/crfvalenciama_unal_edu_co/EX36cl9LigtOmrbWN2DUk1gBdGc5D4lAM12_yy2PXT_asw?rtime=CM0vG0w720g){:target="_blank"}
@@ -78,9 +80,9 @@ Skills:
 
 
 <div align="center">
-    <h3 style="color: #1F2D3D; font-family: 'Montserrat', sans-serif;">
+    <h2 style="color: #00bcc8; font-family: 'Montserrat', sans-serif;">
         Dashboard - Hotel (Tableau)
-    </h3>
+    </h2>
 </div>
 
 [Link](https://public.tableau.com/app/profile/crisfvam/viz/Hoteles_16725141654290/Dashboard1)
@@ -88,9 +90,9 @@ Skills:
 
 
 <div align="center">
-    <h3 style="color: #1F2D3D; font-family: 'Montserrat', sans-serif;">
+    <h2 style="color: #00bcc8; font-family: 'Montserrat', sans-serif;">
         KPI Dashboard (Tableau)
-    </h3>
+    </h2>
 </div>
 
 [Link](https://public.tableau.com/app/profile/crisfvam/viz/FirstData_16648246573180/Dashboard1){:target="_blank"}
