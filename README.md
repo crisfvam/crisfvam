@@ -95,7 +95,7 @@ Skills:
     </h2>
 </div>
 
-[Link](https://public.tableau.com/app/profile/crisfvam/viz/FirstData_16648246573180/Dashboard1){:target="_blank"}
+[Link](https://public.tableau.com/app/profile/crisfvam/viz/FirstData_16648246573180/Dashboard1)
 ![image](https://user-images.githubusercontent.com/70907382/231449633-30638dba-6633-489f-954a-c8a7244de991.png)
 
 
