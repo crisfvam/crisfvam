@@ -26,6 +26,7 @@ Skills:
 </div>
 
 [Link App |   ](https://exploratorydatanalysis.streamlit.app/){:target="_blank"}
+
 [First post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7070012861414006784/){:target="_blank"}
 ![image](https://github.com/crfvalenciam/crfvalenciam/assets/70907382/6c85cb7f-5bf3-4bd4-b3a1-125844baffb9)
 ![image](https://github.com/crfvalenciam/crfvalenciam/assets/70907382/9e8d7266-67b3-49ea-932f-3385627081cc)
