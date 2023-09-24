@@ -25,8 +25,8 @@ Skills:
     </h3>
 </div>
 
-[Link App |   ](https://exploratorydatanalysis.streamlit.app/) 
-[First post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7070012861414006784/)
+[Link App |   ](https://exploratorydatanalysis.streamlit.app/){:target="_blank"}
+[First post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7070012861414006784/){:target="_blank"}
 ![image](https://github.com/crfvalenciam/crfvalenciam/assets/70907382/6c85cb7f-5bf3-4bd4-b3a1-125844baffb9)
 ![image](https://github.com/crfvalenciam/crfvalenciam/assets/70907382/9e8d7266-67b3-49ea-932f-3385627081cc)
 ![image](https://github.com/crfvalenciam/crfvalenciam/assets/70907382/f5c8eb4f-f9af-477f-8acf-f71140a09c19)
@@ -41,7 +41,7 @@ Skills:
     </h3>
 </div>
 
-[Link](https://app.powerbi.com/groups/me/reports/75b412fb-e5de-44ed-95b2-c8828dcda4f9/ReportSection?experience=power-bi)
+[Link](https://app.powerbi.com/groups/me/reports/75b412fb-e5de-44ed-95b2-c8828dcda4f9/ReportSection?experience=power-bi){:target="_blank"}
 
 
 ![image](https://github.com/crfvalenciam/crfvalenciam/assets/70907382/1a2bf690-a299-41d6-a196-5cc027a4fa3c)
@@ -54,8 +54,8 @@ Skills:
     </h3>
 </div>
 
-[Link App    |      ](https://datacleansing.streamlit.app/)
-[First post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7066082505325436928/)
+[Link App    |      ](https://datacleansing.streamlit.app/){:target="_blank"}
+[First post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7066082505325436928/){:target="_blank"}
 ![image](https://github.com/crfvalenciam/crfvalenciam/assets/70907382/1209d7e8-8602-4914-9ee8-92f3059f80be)
 ![image](https://github.com/crfvalenciam/crfvalenciam/assets/70907382/555706f4-4f4b-447a-85f2-4a2df29b3746)
 ![image](https://github.com/crfvalenciam/crfvalenciam/assets/70907382/075e85d2-9271-494a-8e15-bae92aaee5b2)
@@ -72,7 +72,7 @@ Skills:
     </h3>
 </div>
 
-[Link](https://unaledu-my.sharepoint.com/:x:/g/personal/crfvalenciama_unal_edu_co/EX36cl9LigtOmrbWN2DUk1gBdGc5D4lAM12_yy2PXT_asw?rtime=CM0vG0w720g)
+[Link](https://unaledu-my.sharepoint.com/:x:/g/personal/crfvalenciama_unal_edu_co/EX36cl9LigtOmrbWN2DUk1gBdGc5D4lAM12_yy2PXT_asw?rtime=CM0vG0w720g){:target="_blank"}
 ![7](https://user-images.githubusercontent.com/70907382/231448817-4d220467-0c76-4af8-bc14-0326c20bf675.PNG)
 
 
@@ -82,7 +82,7 @@ Skills:
     </h3>
 </div>
 
-[Link](https://public.tableau.com/app/profile/crisfvam/viz/Hoteles_16725141654290/Dashboard1)
+[Link](https://public.tableau.com/app/profile/crisfvam/viz/Hoteles_16725141654290/Dashboard1){:target="_blank"}
 ![image](https://user-images.githubusercontent.com/70907382/231449398-86669e8b-4a72-4670-a0d7-0c5e7f7a3478.png)
 
 
@@ -92,7 +92,7 @@ Skills:
     </h3>
 </div>
 
-[Link](https://public.tableau.com/app/profile/crisfvam/viz/FirstData_16648246573180/Dashboard1)
+[Link](https://public.tableau.com/app/profile/crisfvam/viz/FirstData_16648246573180/Dashboard1){:target="_blank"}
 ![image](https://user-images.githubusercontent.com/70907382/231449633-30638dba-6633-489f-954a-c8a7244de991.png)
 
 
