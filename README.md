@@ -75,7 +75,8 @@ Skills:
     </h2>
 </div>
 
-[Link](https://unaledu-my.sharepoint.com/:x:/g/personal/crfvalenciama_unal_edu_co/EX36cl9LigtOmrbWN2DUk1gBdGc5D4lAM12_yy2PXT_asw?rtime=CM0vG0w720g){:target="_blank"}
+[Link](https://unaledu-my.sharepoint.com/:x:/g/personal/crfvalenciama_unal_edu_co/EX36cl9LigtOmrbWN2DUk1gBdGc5D4lAM12_yy2PXT_asw?rtime=CM0vG0w720g)
+
 ![7](https://user-images.githubusercontent.com/70907382/231448817-4d220467-0c76-4af8-bc14-0326c20bf675.PNG)
 
 
