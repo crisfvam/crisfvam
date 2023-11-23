@@ -24,7 +24,7 @@ Skills:
 </div>
 
 [Link App](https://datacleansing.streamlit.app/)
-[|First post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7066082505325436928/)
+[|LinkedIn_Post](https://www.linkedin.com/in/crisfvam/overlay/1635545058887/single-media-viewer/?type=LINK&profileId=ACoAADvvezgB4mWAFVyj61Uok3vhPgSzrhqV5a4)
 ![image](https://github.com/crfvalenciam/crfvalenciam/assets/70907382/1209d7e8-8602-4914-9ee8-92f3059f80be)
 ![image](https://github.com/crfvalenciam/crfvalenciam/assets/70907382/555706f4-4f4b-447a-85f2-4a2df29b3746)
 ![image](https://github.com/crfvalenciam/crfvalenciam/assets/70907382/075e85d2-9271-494a-8e15-bae92aaee5b2)
@@ -43,7 +43,7 @@ Skills:
 </div>
 
 [Link App |   ](https://exploratorydatanalysis.streamlit.app/)
-[First post LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7070012861414006784/)
+[LinkedIn_Post](https://www.linkedin.com/in/crisfvam/overlay/1635545071320/single-media-viewer/?type=LINK&profileId=ACoAADvvezgB4mWAFVyj61Uok3vhPgSzrhqV5a4)
 ![image](https://github.com/crfvalenciam/crfvalenciam/assets/70907382/6c85cb7f-5bf3-4bd4-b3a1-125844baffb9)
 ![image](https://github.com/crfvalenciam/crfvalenciam/assets/70907382/9e8d7266-67b3-49ea-932f-3385627081cc)
 ![image](https://github.com/crfvalenciam/crfvalenciam/assets/70907382/f5c8eb4f-f9af-477f-8acf-f71140a09c19)
